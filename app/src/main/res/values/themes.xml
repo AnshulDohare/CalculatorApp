@@ -5,5 +5,8 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.CalculatorApp" parent="Base.Theme.CalculatorApp" />
+    <style name="Theme.CalculatorApp" parent="Base.Theme.CalculatorApp" >
+        <item name="colorPrimary">#09ADD6</item>
+        <item name="colorSecondary">#9A31EFC8</item>
+    </style>
 </resources>
